@@ -8,7 +8,7 @@ $array = array(
     'merchantNo'=>'20191204192421307122140114',
     'amount'=>100,
     'payMode'=>'100002',
-    'ts'=>strtotime(date('Y-m-d H:i:s')),
+    'ts'=>time(),
     'notifyUrl'=>'https://www.baidu.com/',
     'returnUrl'=>'');
  
@@ -70,7 +70,7 @@ echo "\n";
 $post_data = array(
     'merchantNo'=>'20191204192421307122140114',
     'orderNo'=>'1576061857',
-    'ts'=>strtotime(date('Y-m-d H:i:s'))
+    'ts'=>time()
     );
     print_r($post_data);
 //查询订单
