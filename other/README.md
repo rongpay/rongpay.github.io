@@ -38,9 +38,53 @@
         |orderStatus|是|整数|50| 订单状态，请参考订单状态枚举|
         |payNo|是|字符串|20191209194326631108714792| 支付订单编号|
         |payStatus|是|整数|30| 支付状态，请参考支付状态枚举|
-        |payChannel|是|对象|{}| 不同模式内容不一样，[](请参考)|
+        |payChannel|是|对象|{}| 不同模式内容不一样，[请参考]()|
         
     5. 示例
     ```
-    
+        //请求
+        POST /any-pay/open/api/order HTTP/1.1
+        Host: 网关地址
+        Content-Type: application/json
+        Cache-Control: no-cache
+
+        {
+            "amount": 30000,
+            "ip": 2130706433,
+            "merchantNo": "20191204192421307122140114",
+            "notifyUrl": "https://www.baidu.com/notify",
+            "orderNo": "201912081855183951ab02e",
+            "payMode": "100007",
+            "returnUrl": "",
+            "sign": "$2a$10$JwOX9nmVHrE6o8vcoSmyd.T6...",
+            "ts": 1575948756
+        }
+        
+        //响应
+        {
+            "orderNo":"20200610151642293181035065",
+            "amount":30000,
+            "realAmount":29998,
+            "merchantNo":"20191123161925299103193198",
+            "mcntOrderNo":"c5c5d727-e45e-4e78-bdc4-f1c3f22648cc",
+            "mcntOrderTs":1591773393000,
+            "expirTime":1591774002282,
+            "merchantName":"商户名称",
+            "payChannel":{
+                "bankName":"中国银行",
+                "realName":"张三",
+                "bankcard":"111111111111"
+            },
+            "payStatus":10,
+            "payNo":"20200610151642939132182091",
+            "orderStatus":30
+        }
+
     ```
+### 2. payChannel 响应内容 
+1. 银行卡内容
+    |参数名称| 必须|数据类型|示例| 参数说明 |
+    |  ----  | ------------|---- |---- |------------  |
+    |bankName|是|字符串|中国银行| 银行名称|
+    |realName|是|字符串|张三| 持卡人名称 |
+    |bankcard|是|字符串|111111111111| 卡号 |
