@@ -1,4 +1,4 @@
-# 融付接口文档(v.200610)
+# 接口文档(v.200610)
     文档内容最后更新于：2020-06-10
 
 
@@ -38,7 +38,7 @@
         |orderStatus|是|整数|50| 订单状态，请参考订单状态枚举|
         |payNo|是|字符串|20191209194326631108714792| 支付订单编号|
         |payStatus|是|整数|30| 支付状态，请参考支付状态枚举|
-        |payChannel|是|对象|{}| 不同模式内容不一样，[请参考]()|
+        |payChannel|是|对象|{}| 不同模式内容不一样，[请参考](https://github.com/rongpay/rongpay.github.io/tree/rongpay-api/other#2-paychannel-%E5%93%8D%E5%BA%94%E5%86%85%E5%AE%B9)|
         
     5. 示例
     ```
