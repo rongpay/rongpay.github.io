@@ -7,6 +7,7 @@ $array = array(
     'orderNo'=>'1575966096740',
     'merchantNo'=>'20191204192421307122140114',
     'amount'=>100,
+    'name'=>'张三',
     'payMode'=>'100002',
     'ts'=>time(),
     'notifyUrl'=>'https://www.baidu.com/',
