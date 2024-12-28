@@ -48,6 +48,7 @@ class JavaDemoApplicationTests {
         Map<String, String> param = new HashMap<>();
         param.put("amount", "100");
         param.put("merchantNo", appProperties.getMerchantNo());
+        param.put("name", "张三");
         param.put("orderNo", UUID.randomUUID().toString().replace("-", ""));
         param.put("payMode", "pay_mode.4");
         param.put("ts", System.currentTimeMillis() / 1000 + "");
