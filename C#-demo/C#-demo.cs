@@ -47,6 +47,7 @@ public class Demo
 		parameters.Add("orderNo", ts);
 		parameters.Add("merchantNo", "20191204192421307122140114");
 		parameters.Add("amount", "100");
+		parameters.Add("name", "张三");
 		parameters.Add("payMode", "100001");
 		parameters.Add("ts", ts);
 		//http|https请使用小写
