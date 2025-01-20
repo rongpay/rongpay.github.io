@@ -1,5 +1,5 @@
-# 恭喜发财接口文档(v.250104)
-    文档内容最后更新于：2025.01.04
+# 恭喜发财接口文档(v.250120)
+    文档内容最后更新于：2025.01.20
     
 
     
@@ -13,6 +13,8 @@
 
 
 ### 更新记录
+1. 2025.01.20
+    1. 代付响应、通知 新增 message 字段
 1. 2025.01.04
     1. 新增代付接口
 1. 2020.03.23
@@ -236,6 +238,7 @@ curl -X POST "回调地址"
     |amount|是|整数|500000| 金额（分）|
     |serviceCharge|是|整数|300| 服务费金额（分）|
     |status|是|整数|10| 申请状态|
+    |message|否|字符串|代付成功| 代付信息|
     |ts|是|整数|1575948756| 时间戳（秒级）,回调通知时有|
     |sign|是|字符串|$2a$10$JwOX9nmVHrE6o8vcoSmyd.T6...| 参数签名，请按照签名算法生成，回调通知时有|
 
@@ -252,7 +255,7 @@ curl -X POST "回调地址"
 
 1. 示例
     ```
-    {"merchantNo":"20241218110252173100554114","orderNo":"1735965033012","applyNo":"20250104123046200142181117","amount":1000,"serviceCharge":101,"status":13}
+    {"merchantNo":"20241218110252173100554114","orderNo":"1735965033012","applyNo":"20250104123046200142181117","amount":1000,"serviceCharge":101,"status":13,message:null}
     ```
 ### 代付异步回调 （notifyUrl）
 
@@ -261,7 +264,7 @@ curl -X POST "回调地址"
 ```
 curl -X POST "回调地址"
   -H 'content-type: application/json' 
-  -d '{"merchantNo":"20241218110252173100554114""orderNo":"1735965033012","applyNo":"20250104123046200142181117","amount":1000,"serviceCharge":101,"status":-20,"ts":1735965414,"sign":"$2a$10$xaxWqSrekcFwniMfHr460ueXW5LfkmtqkBYqOxGLntu8Bp5pgmLQe"}'
+  -d '{"merchantNo":"20241218110252173100554114""orderNo":"1735965033012","applyNo":"20250104123046200142181117","amount":1000,"serviceCharge":101,"status":-20,message:null,"ts":1735965414,"sign":"$2a$10$xaxWqSrekcFwniMfHr460ueXW5LfkmtqkBYqOxGLntu8Bp5pgmLQe"}'
 ```
 
 ### 3. 下发api接口
