@@ -189,7 +189,7 @@ curl -X POST "回调地址"
         |orderNo|是|字符串|1735965033012| 订单编号|
         |payMode|是|字符串|x2001| 模式编号,联系客服|
         |account|是|字符串|xxxxx| 收款账号|
-        |bankCode|否|字符串|ICBC| 银行编码|
+        |bankCode|否|字符串|ICBC| [银行编码](https://rongpay.github.io/BANK_CODE.json)|
         |name|是|字符串|张三| 收款人|
         |notifyUrl|是|字符串|http://www.baidu.com| 通知地址|
         |ts|是|整数|1575948756| 商户订单时间戳（秒级）|
