@@ -1,0 +1,1162 @@
+[
+    {
+        "name": "工商银行",
+        "code": "ICBC"
+    },
+    {
+        "name": "建设银行",
+        "code": "CCB"
+    },
+    {
+        "name": "农业银行",
+        "code": "ABC"
+    },
+    {
+        "name": "邮政储蓄银行",
+        "code": "PSBC"
+    },
+    {
+        "name": "中国银行",
+        "code": "BOC"
+    },
+    {
+        "name": "交通银行",
+        "code": "COMM"
+    },
+    {
+        "name": "招商银行",
+        "code": "CMB"
+    },
+    {
+        "name": "光大银行",
+        "code": "CEB"
+    },
+    {
+        "name": "兴业银行",
+        "code": "CIB"
+    },
+    {
+        "name": "民生银行",
+        "code": "CMBC"
+    },
+    {
+        "name": "北京银行",
+        "code": "BCCB"
+    },
+    {
+        "name": "中信银行",
+        "code": "CITIC"
+    },
+    {
+        "name": "广东发展银行",
+        "code": "GDB"
+    },
+    {
+        "name": "深圳发展银行",
+        "code": "SDB"
+    },
+    {
+        "name": "浦东发展银行",
+        "code": "SPDB"
+    },
+    {
+        "name": "平安银行",
+        "code": "PINGANBANK"
+    },
+    {
+        "name": "华夏银行",
+        "code": "HXB"
+    },
+    {
+        "name": "上海银行",
+        "code": "SHB"
+    },
+    {
+        "name": "渤海银行",
+        "code": "CBHB"
+    },
+    {
+        "name": "东亚银行",
+        "code": "HKBEA"
+    },
+    {
+        "name": "宁波银行",
+        "code": "NBCB"
+    },
+    {
+        "name": "浙商银行",
+        "code": "CZB"
+    },
+    {
+        "name": "南京银行",
+        "code": "NJCB"
+    },
+    {
+        "name": "杭州银行",
+        "code": "HZCB"
+    },
+    {
+        "name": "北京农村商业银行",
+        "code": "BJRCB"
+    },
+    {
+        "name": "上海农商银行",
+        "code": "SRCB"
+    },
+    {
+        "name": "广州银行",
+        "code": "GCB"
+    },
+    {
+        "name": "长沙银行",
+        "code": "CSCB"
+    },
+    {
+        "name": "广西北部湾银行",
+        "code": "BGB"
+    },
+    {
+        "name": "广东农信",
+        "code": "GDRC"
+    },
+    {
+        "name": "桂林银行",
+        "code": "GLB"
+    },
+    {
+        "name": "东莞银行",
+        "code": "BOD"
+    },
+    {
+        "name": "江苏银行",
+        "code": "JSBC"
+    },
+    {
+        "name": "广西农信银行",
+        "code": "GXRCU"
+    },
+    {
+        "name": "吉林银行",
+        "code": "JLBANK"
+    },
+    {
+        "name": "恒丰银行",
+        "code": "EGBANK"
+    },
+    {
+        "name": "深圳农村商业银行",
+        "code": "SRCBANK"
+    },
+    {
+        "name": "武汉农商银行",
+        "code": "WHRCB"
+    },
+    {
+        "name": "威海银行",
+        "code": "WHCCB"
+    },
+    {
+        "name": "哈尔滨银行",
+        "code": "HRBANK"
+    },
+    {
+        "name": "青岛银行",
+        "code": "QDCCB"
+    },
+    {
+        "name": "莱商银行",
+        "code": "LSBANK"
+    },
+    {
+        "name": "齐鲁银行",
+        "code": "QLBANK"
+    },
+    {
+        "name": "烟台银行",
+        "code": "YTBANK"
+    },
+    {
+        "name": "柳州银行",
+        "code": "LZCCB"
+    },
+    {
+        "name": "重庆农村商业银行",
+        "code": "CRCBANK"
+    },
+    {
+        "name": "北京商业银行",
+        "code": "BJCB"
+    },
+    {
+        "name": "甘肃省农村信用社",
+        "code": "GSNX"
+    },
+    {
+        "name": "湖北银行",
+        "code": "HBC"
+    },
+    {
+        "name": "东莞农村商业银行",
+        "code": "DRCB"
+    },
+    {
+        "name": "湖南省农村信用社",
+        "code": "HUNNX"
+    },
+    {
+        "name": "泰隆银行",
+        "code": "ZJTLCB"
+    },
+    {
+        "name": "稠州银行",
+        "code": "CZCB"
+    },
+    {
+        "name": "自贡银行",
+        "code": "ZGCCB"
+    },
+    {
+        "name": "民泰银行",
+        "code": "MTBANK"
+    },
+    {
+        "name": "银座村镇银行",
+        "code": "YZBANK"
+    },
+    {
+        "name": "营口银行",
+        "code": "BOYK"
+    },
+    {
+        "name": "兰州银行",
+        "code": "LZYH"
+    },
+    {
+        "name": "临商银行",
+        "code": "LSBC"
+    },
+    {
+        "name": "江西银行",
+        "code": "NCB"
+    },
+    {
+        "name": "江西省农村信用社",
+        "code": "JXRCU"
+    },
+    {
+        "name": "华融湘江银行",
+        "code": "HRXJB"
+    },
+    {
+        "name": "湖北省农信社",
+        "code": "HURCB"
+    },
+    {
+        "name": "大连银行",
+        "code": "DLB"
+    },
+    {
+        "name": "沧州银行",
+        "code": "BOCZ"
+    },
+    {
+        "name": "重庆三峡银行",
+        "code": "CCQTGB"
+    },
+    {
+        "name": "东营银行",
+        "code": "DYCCB"
+    },
+    {
+        "name": "广东省农村信用社",
+        "code": "GDRCC"
+    },
+    {
+        "name": "广州农商银行",
+        "code": "GRCB"
+    },
+    {
+        "name": "蒙商银行",
+        "code": "PERB"
+    },
+    {
+        "name": "长春经开融丰村镇银行",
+        "code": "CCRFCB"
+    },
+    {
+        "name": "保定银行",
+        "code": "BOB"
+    },
+    {
+        "name": "重庆银行",
+        "code": "CQBANK"
+    },
+    {
+        "name": "张家口银行",
+        "code": "ZJKCCB"
+    },
+    {
+        "name": "天津银行",
+        "code": "TCCB"
+    },
+    {
+        "name": "邯郸银行",
+        "code": "HDBANK"
+    },
+    {
+        "name": "富滇银行",
+        "code": "FDB"
+    },
+    {
+        "name": "承德银行",
+        "code": "CDBANK"
+    },
+    {
+        "name": "浙江农村信用合作社",
+        "code": "ZJNX"
+    },
+    {
+        "name": "安徽省农村信用社",
+        "code": "ARCU"
+    },
+    {
+        "name": "阳光村镇银行",
+        "code": "YGCZYH"
+    },
+    {
+        "name": "福建农村信用社",
+        "code": "FJNX"
+    },
+    {
+        "name": "阜新银行",
+        "code": "BOFX"
+    },
+    {
+        "name": "赣州银行",
+        "code": "GZB"
+    },
+    {
+        "name": "乐山商业银行",
+        "code": "LSCCB"
+    },
+    {
+        "name": "广东南粤银行",
+        "code": "GDNY"
+    },
+    {
+        "name": "珠海华润银行",
+        "code": "CRBANK"
+    },
+    {
+        "name": "常熟农商银行",
+        "code": "CSRCB"
+    },
+    {
+        "name": "成都银行",
+        "code": "CDCB"
+    },
+    {
+        "name": "汉口银行",
+        "code": "HKB"
+    },
+    {
+        "name": "杭州联合银行",
+        "code": "URCB"
+    },
+    {
+        "name": "江南农村商业银行",
+        "code": "JNRCB"
+    },
+    {
+        "name": "江苏省农村信用社",
+        "code": "JSNX"
+    },
+    {
+        "name": "九江银行",
+        "code": "JJCCB"
+    },
+    {
+        "name": "辽宁省农村信用社",
+        "code": "INRCC"
+    },
+    {
+        "name": "洛阳银行",
+        "code": "LYBANK"
+    },
+    {
+        "name": "齐商银行",
+        "code": "QSB"
+    },
+    {
+        "name": "青岛农商银行",
+        "code": "QRCB"
+    },
+    {
+        "name": "日照银行",
+        "code": "RZB"
+    },
+    {
+        "name": "厦门国际银行",
+        "code": "XMIB"
+    },
+    {
+        "name": "厦门银行",
+        "code": "XMBANK"
+    },
+    {
+        "name": "山东省农村信用社",
+        "code": "SDRCU"
+    },
+    {
+        "name": "云南农村信用社",
+        "code": "YNRCC"
+    },
+    {
+        "name": "深圳前海微众银行",
+        "code": "WEBANK"
+    },
+    {
+        "name": "盛京银行",
+        "code": "SJBANK"
+    },
+    {
+        "name": "四川省农村信用社",
+        "code": "SCRCU"
+    },
+    {
+        "name": "四川天府银行",
+        "code": "PWEB"
+    },
+    {
+        "name": "苏州银行",
+        "code": "BOSZ"
+    },
+    {
+        "name": "台州银行",
+        "code": "TZCB"
+    },
+    {
+        "name": "微商银行",
+        "code": "SBANK"
+    },
+    {
+        "name": "温州银行",
+        "code": "WZCB"
+    },
+    {
+        "name": "萧山农商银行",
+        "code": "ZJXSBANK"
+    },
+    {
+        "name": "长沙农商银行",
+        "code": "CRCB"
+    },
+    {
+        "name": "郑州银行",
+        "code": "ZZBANK"
+    },
+    {
+        "name": "中原银行",
+        "code": "ZYBANK"
+    },
+    {
+        "name": "紫金农商银行",
+        "code": "ZJRCBANK"
+    },
+    {
+        "name": "河南省农村信用社",
+        "code": "HNRCU"
+    },
+    {
+        "name": "龙江银行",
+        "code": "LJBANK"
+    },
+    {
+        "name": "黑龙江农信",
+        "code": "HLJRCU"
+    },
+    {
+        "name": "辽阳银行",
+        "code": "LYCB"
+    },
+    {
+        "name": "丹东银行",
+        "code": "BODD"
+    },
+    {
+        "name": "大连农商银行",
+        "code": "DLRCB"
+    },
+    {
+        "name": "甘肃银行",
+        "code": "GSBANK"
+    },
+    {
+        "name": "贵阳银行",
+        "code": "GYCB"
+    },
+    {
+        "name": "贵州银行",
+        "code": "ZYCBANK"
+    },
+    {
+        "name": "桂林国民银行",
+        "code": "GLGM"
+    },
+    {
+        "name": "徽商银行",
+        "code": "HSBANK"
+    },
+    {
+        "name": "济宁银行",
+        "code": "BOJN"
+    },
+    {
+        "name": "廊坊银行",
+        "code": "LANGFB"
+    },
+    {
+        "name": "长安银行",
+        "code": "CCAB"
+    },
+    {
+        "name": "西安银行",
+        "code": "XABANK"
+    },
+    {
+        "name": "包商银行",
+        "code": "BSB"
+    },
+    {
+        "name": "本溪银行",
+        "code": "BOBZ"
+    },
+    {
+        "name": "达州银行",
+        "code": "BODZ"
+    },
+    {
+        "name": "成都农商银行",
+        "code": "CDRCB"
+    },
+    {
+        "name": "抚顺银行",
+        "code": "FSCB"
+    },
+    {
+        "name": "贵州省农村信用社",
+        "code": "GZRCU"
+    },
+    {
+        "name": "河北银行",
+        "code": "BHB"
+    },
+    {
+        "name": "吉林农信银行",
+        "code": "JLRCU"
+    },
+    {
+        "name": "江苏农商银行",
+        "code": "JRCB"
+    },
+    {
+        "name": "金华银行",
+        "code": "JHBANK"
+    },
+    {
+        "name": "锦州银行",
+        "code": "BOJZ"
+    },
+    {
+        "name": "昆仑银行",
+        "code": "KLB"
+    },
+    {
+        "name": "昆山农商银行",
+        "code": "KSRB"
+    },
+    {
+        "name": "青海省农村信用社",
+        "code": "QHRC"
+    },
+    {
+        "name": "上虞农商银行",
+        "code": "SYCB"
+    },
+    {
+        "name": "绍兴银行",
+        "code": "SXCB"
+    },
+    {
+        "name": "太仓农商银行",
+        "code": "TCRCB"
+    },
+    {
+        "name": "泰安银行",
+        "code": "TACCB"
+    },
+    {
+        "name": "天津农商银行",
+        "code": "TRCB"
+    },
+    {
+        "name": "邢台银行",
+        "code": "XTB"
+    },
+    {
+        "name": "张家港农商银行",
+        "code": "RCBOZ"
+    },
+    {
+        "name": "长江商业银行",
+        "code": "JSCCB"
+    },
+    {
+        "name": "绵阳商业银行",
+        "code": "MYCC"
+    },
+    {
+        "name": "山西农信",
+        "code": "SRCU"
+    },
+    {
+        "name": "阳泉商业银行",
+        "code": "YQCCB"
+    },
+    {
+        "name": "桦甸惠民村镇银行",
+        "code": "HDHMB"
+    },
+    {
+        "name": "海南农信",
+        "code": "HNB"
+    },
+    {
+        "name": "黄河农信银行",
+        "code": "HHNX"
+    },
+    {
+        "name": "江门农商银行",
+        "code": "JMRCB"
+    },
+    {
+        "name": "晋城银行",
+        "code": "JCCB"
+    },
+    {
+        "name": "宁夏银行",
+        "code": "NXBANK"
+    },
+    {
+        "name": "宁夏黄河农村商业银行",
+        "code": "NXRCU"
+    },
+    {
+        "name": "深圳福田银座村镇银行",
+        "code": "FTYZB"
+    },
+    {
+        "name": "石嘴山银行",
+        "code": "SZSCCB"
+    },
+    {
+        "name": "苏州农商银行",
+        "code": "WJRCB"
+    },
+    {
+        "name": "天津滨海农村商业银行",
+        "code": "TJBHB"
+    },
+    {
+        "name": "枣庄银行",
+        "code": "ZZB"
+    },
+    {
+        "name": "浙江网商银行",
+        "code": "MYBANK"
+    },
+    {
+        "name": "广东农商银行",
+        "code": "GZRCB"
+    },
+    {
+        "name": "海南银行",
+        "code": "HNBANK"
+    },
+    {
+        "name": "五常惠民村镇银行",
+        "code": "WCHMB"
+    },
+    {
+        "name": "唐山银行",
+        "code": "TSB"
+    },
+    {
+        "name": "南阳村镇银行",
+        "code": "NYCBANK"
+    },
+    {
+        "name": "鞍山银行",
+        "code": "ASBANK"
+    },
+    {
+        "name": "中银富登村镇银行",
+        "code": "BOCFTB"
+    },
+    {
+        "name": "衡水银行",
+        "code": "HSB"
+    },
+    {
+        "name": "平顶山银行",
+        "code": "PDSB"
+    },
+    {
+        "name": "内蒙古农村信用社",
+        "code": "NMGNXS"
+    },
+    {
+        "name": "内蒙古银行",
+        "code": "BOIMC"
+    },
+    {
+        "name": "惠水恒升村镇银行",
+        "code": "HSHSB"
+    },
+    {
+        "name": "朝阳银行",
+        "code": "CYCB"
+    },
+    {
+        "name": "江西农商银行",
+        "code": "JXNXS"
+    },
+    {
+        "name": "贵阳农商银行",
+        "code": "GYNSH"
+    },
+    {
+        "name": "泉州银行",
+        "code": "QZCCB"
+    },
+    {
+        "name": "安图农商村镇银行",
+        "code": "ATCZB"
+    },
+    {
+        "name": "广西农村信用社",
+        "code": "GXNX"
+    },
+    {
+        "name": "融兴村镇银行",
+        "code": "RXVB"
+    },
+    {
+        "name": "宁波通商银行",
+        "code": "NCBANK"
+    },
+    {
+        "name": "天津宁河村镇银行",
+        "code": "NINGHEB"
+    },
+    {
+        "name": "广州增城长江村镇银行",
+        "code": "ZCCJB"
+    },
+    {
+        "name": "鄞州银行",
+        "code": "BEEB"
+    },
+    {
+        "name": "海丰农商银行",
+        "code": "HFRCB"
+    },
+    {
+        "name": "上饶银行",
+        "code": "SRBANK"
+    },
+    {
+        "name": "黄梅农村商业银行",
+        "code": "HMRCB"
+    },
+    {
+        "name": "陕西省农村信用社",
+        "code": "SXRCCU"
+    },
+    {
+        "name": "密山农商银行",
+        "code": "MSRCB"
+    },
+    {
+        "name": "义乌联合村镇银行",
+        "code": "ZJYURB"
+    },
+    {
+        "name": "广东普宁汇成村镇银行",
+        "code": "GDPHCB"
+    },
+    {
+        "name": "海南省农村信用社",
+        "code": "HAINANBANK"
+    },
+    {
+        "name": "浙江诸暨联合村镇银行",
+        "code": "ZJURB"
+    },
+    {
+        "name": "东阳农商银行",
+        "code": "ZJDYB"
+    },
+    {
+        "name": "日照沪农商村镇银行",
+        "code": "SRCBCZ"
+    },
+    {
+        "name": "浙江农商银行",
+        "code": "ZJRCB"
+    },
+    {
+        "name": "鄂尔多斯银行",
+        "code": "ORDOSB"
+    },
+    {
+        "name": "永州农村商业银行",
+        "code": "HNNXS"
+    },
+    {
+        "name": "福建省农村信用社",
+        "code": "FJNXS"
+    },
+    {
+        "name": "潮州农商银行",
+        "code": "GRCBANK"
+    },
+    {
+        "name": "义乌农商银行",
+        "code": "YRCBANK"
+    },
+    {
+        "name": "海口联合农商银行",
+        "code": "UNITEDB"
+    },
+    {
+        "name": "瑞丰银行",
+        "code": "BORF"
+    },
+    {
+        "name": "南海农信",
+        "code": "NRCBANK"
+    },
+    {
+        "name": "山西银行",
+        "code": "SHXIBANK"
+    },
+    {
+        "name": "盘锦银行",
+        "code": "PJBANK"
+    },
+    {
+        "name": "青田农商银行",
+        "code": "QTRCB"
+    },
+    {
+        "name": "海南农村信用社",
+        "code": "HNBB"
+    },
+    {
+        "name": "海峡银行",
+        "code": "FJHXBANK"
+    },
+    {
+        "name": "上海农村商业银行",
+        "code": "SHRCB"
+    },
+    {
+        "name": "四川银行",
+        "code": "SCB"
+    },
+    {
+        "name": "江南村镇银行",
+        "code": "JRCCB"
+    },
+    {
+        "name": "河北省农村信用社",
+        "code": "HBNX"
+    },
+    {
+        "name": "顺德农商银行",
+        "code": "SDNBANK"
+    },
+    {
+        "name": "安徽怀远农商行",
+        "code": "AHHYRCB"
+    },
+    {
+        "name": "新疆农村信用社",
+        "code": "XJRCU"
+    },
+    {
+        "name": "长春二道农商村镇银行",
+        "code": "CCEDCB"
+    },
+    {
+        "name": "山西省农村信用社",
+        "code": "SXRCU"
+    },
+    {
+        "name": "吉林省农村信用社",
+        "code": "JLRCUU"
+    },
+    {
+        "name": "昆山农信社",
+        "code": "KRCB"
+    },
+    {
+        "name": "东莞农村银行",
+        "code": "DRCBANK"
+    },
+    {
+        "name": "河北农信",
+        "code": "HBNCXYS"
+    },
+    {
+        "name": "广西农村信",
+        "code": "GXRCC"
+    },
+    {
+        "name": "梁山农商银行",
+        "code": "LSRCB"
+    },
+    {
+        "name": "吉林农村信用社",
+        "code": "JLNLS"
+    },
+    {
+        "name": "乌鲁木齐商业银行",
+        "code": "URMQCCB"
+    },
+    {
+        "name": "宁波鄞州农村合作银行",
+        "code": "NBNCYH"
+    },
+    {
+        "name": "垦利乐安村镇银行",
+        "code": "KLLABANK"
+    },
+    {
+        "name": "广州农信社",
+        "code": "JPTX"
+    },
+    {
+        "name": "德州银行",
+        "code": "DZBCHINA"
+    },
+    {
+        "name": "苏州农村商业银行",
+        "code": "SZRCB"
+    },
+    {
+        "name": "新疆银行",
+        "code": "XJBANK"
+    },
+    {
+        "name": "西藏银行",
+        "code": "XZB"
+    },
+    {
+        "name": "渣打银行",
+        "code": "SCHK"
+    },
+    {
+        "name": "文昌大众村镇银行",
+        "code": "WCRCB"
+    },
+    {
+        "name": "汇丰银行",
+        "code": "HSBC"
+    },
+    {
+        "name": "曲靖市商业银行",
+        "code": "QJCCB"
+    },
+    {
+        "name": "农业发展银行",
+        "code": "ADBC"
+    },
+    {
+        "name": "云南红塔银行",
+        "code": "YNHTBANK"
+    },
+    {
+        "name": "顺德农村商业银行",
+        "code": "SDEB"
+    },
+    {
+        "name": "南海农商银行",
+        "code": "NHRCB"
+    },
+    {
+        "name": "广东华兴银行",
+        "code": "GDHX"
+    },
+    {
+        "name": "湛江农村商业银行",
+        "code": "ZJNRCB"
+    },
+    {
+        "name": "邯郸市商业银行",
+        "code": "HDCB"
+    },
+    {
+        "name": "黔西花都村镇银行",
+        "code": "QXHDB"
+    },
+    {
+        "name": "福建石狮农商银行",
+        "code": "FJSSNX"
+    },
+    {
+        "name": "泉州农村商业银行",
+        "code": "QZNSX"
+    },
+    {
+        "name": "浙江农村信用社",
+        "code": "ZJRC"
+    },
+    {
+        "name": "浙江三门银座村镇银行",
+        "code": "SMYZB"
+    },
+    {
+        "name": "富邦华一银行",
+        "code": "FUBON"
+    },
+    {
+        "name": "缙云联合村镇银行",
+        "code": "JYCZBANK"
+    },
+    {
+        "name": "长兴联合村镇银行",
+        "code": "ZJCURB"
+    },
+    {
+        "name": "福泉富民村镇银行",
+        "code": "FQFMBANK"
+    },
+    {
+        "name": "北京农商银行",
+        "code": "BRCB"
+    },
+    {
+        "name": "汪清和润村镇银行",
+        "code": "WQHRCZB"
+    },
+    {
+        "name": "淮安农商银行",
+        "code": "HARCB"
+    },
+    {
+        "name": "新华村镇银行",
+        "code": "XHBANK"
+    },
+    {
+        "name": "湖南三湘银行",
+        "code": "CSXBANK"
+    },
+    {
+        "name": "遂宁银行",
+        "code": "SNCCB"
+    },
+    {
+        "name": "长城华西银行",
+        "code": "DYCCBB"
+    },
+    {
+        "name": "潍坊银行",
+        "code": "BANKWF"
+    },
+    {
+        "name": "黑龙江省农村信用社",
+        "code": "HLJRCC"
+    },
+    {
+        "name": "陕西农村信用社",
+        "code": "SXNXS"
+    },
+    {
+        "name": "湖北省农村信用社",
+        "code": "HBRCC"
+    },
+    {
+        "name": "晋中银行",
+        "code": "JZBA"
+    },
+    {
+        "name": "晋商银行",
+        "code": "JSHB"
+    },
+    {
+        "name": "长治银行",
+        "code": "SHXIB"
+    },
+    {
+        "name": "山西孝义农村商业银行",
+        "code": "SXXYRCU"
+    },
+    {
+        "name": "孝义汇通村镇银行",
+        "code": "XYHTCB"
+    },
+    {
+        "name": "东营莱商村镇银行",
+        "code": "DYLSBANK"
+    },
+    {
+        "name": "泸州银行",
+        "code": "LZBANK"
+    },
+    {
+        "name": "皖南农商银行",
+        "code": "WNSCB"
+    },
+    {
+        "name": "山东农商银行",
+        "code": "SDNCB"
+    },
+    {
+        "name": "盘锦市商业银行",
+        "code": "PJSCB"
+    },
+    {
+        "name": "福州农商银行",
+        "code": "FZRCB"
+    },
+    {
+        "name": "湖州银行",
+        "code": "HZCCB"
+    },
+    {
+        "name": "南昌银行",
+        "code": "NCCBANK"
+    },
+    {
+        "name": "嘉兴银行",
+        "code": "JXCCB"
+    },
+    {
+        "name": "支付宝",
+        "code": "ALIPAY"
+    },
+    {
+        "name": "微信",
+        "code": "WECHAT"
+    },
+    {
+        "name": "数字钱包",
+        "code": "DIGITWALLET"
+    },
+    {
+        "name": "其他银行",
+        "code": "QTBC"
+    }
+]
