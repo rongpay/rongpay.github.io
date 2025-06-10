@@ -119,7 +119,7 @@ Here's the professional English translation for the remaining segments:
 
 | Parameter Name | Required | Data Type | Example                        | Description                              |
 |----------------|----------|-----------|--------------------------------|------------------------------------------|
-| `amount`       | Yes      | Integer   | 100                            | Amount in cents. Minimum value: 100 (1 CNY). |
+| `amount`       | Yes      | Integer   | 100                            | Amount in cents. Minimum value: 100 (1 Legal Tender). |
 | `merchantNo`   | Yes      | String    | 20191204192421307122140114     | Merchant Number                          |
 | `name`         | Yes      | String    | Zhang San                     | Payer’s Name                             |
 | `orderNo`      | Yes      | String (<50) | 201912081855183951ab02e       | Merchant Order Number                    |
