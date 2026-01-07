@@ -1,5 +1,5 @@
-# Congratulations Pay API Documentation (v.250104)
-    Last Updated: 2025.01.04
+# Congratulations Pay API Documentation (v.260107)
+    Last Updated: 2026.01.07
 
 ---
 
@@ -14,6 +14,8 @@
 ---
 
 ### Update Log
+1. **2026.01.07**
+    1. Added Account Balance Query Interface
 1. **2025.01.04**
    - Added Payout/Disbursement API.
 2. **2020.03.23**
@@ -271,6 +273,37 @@ Response:
 }
 ```
 
+---
+
+#### 2.3 Account Balance Query Interface
+1. **Use Case**: Account balance inquiry
+2. **Request Method**: POST
+3. **Request URL**: Gateway Address + /any-pay/open/merchant/account/balance
+4. **Request Header:** X-REQUEST-TOKEN: Random string
+5. **Request Parameters**
+
+    |Parameter Name|Required|Data Type|Example|Parameter Description|
+    |  ----  | ----  |----  |----  |----  |
+    |merchantNo|Yes|String|20191204192421307122140114|Merchant number|
+    |ts|Yes|Integer|1575948756|Merchant order timestamp (in seconds)|
+    |sign|Yes|String|$2a$10$JwOX9nmVHrE6o8vcoSmyd.T6...|Parameter signature, generated according to the signature algorithm|
+
+6. **Response Parameters**
+
+    |Parameter Name|Required|Data Type|Example|Parameter Description|
+    |  ----  | ----  |----  |----  |----  |
+    |balance|Yes|Decimal|100.00|Account balance|
+    |frozenAmt|Yes|Decimal|100.00|Frozen amount|
+    
+7. **Example**
+```
+Request:
+curl --location 'https://Gateway + /any-pay/open/merchant/account/balance' \
+--header 'Content-Type: application/json' \
+--data '{"merchantNo":"20241218110252173100554114","ts":1735897292,"sign":"$2a$10$WU1OaPTcyP/zfSLPRUW8eeLXQNO824VpDGYwCKGJoktUoLaICA8Z."}'
+Response:
+{"balance":100.00,"frozenAmt":100.00}
+```
 ---
 
 ### Payout Response Content
